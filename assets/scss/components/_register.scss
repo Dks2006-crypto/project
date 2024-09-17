@@ -1,0 +1,24 @@
+.registr {
+    padding-top: 150px;
+    width: 100%;
+
+    &__title {
+        font-size: 28px;
+        filter: brightness(150%);
+        text-shadow: 0 0 7px #1eff00, 0 0 10px #1eff00, 0 0 21px #1eff00, 0 0 42px #1eff00, 0 0 82px #1eff00, 0 0 92px #1eff00, 0 0 102px #1eff00, 0 0 151px #1eff00;
+    }
+
+    &__wrapper {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    &__list {
+        &-item {
+            padding: 0;
+            margin: 0;
+        }
+    }
+}
