@@ -1,4 +1,4 @@
-.git{
+.gitbush{
     width: 100%;
     padding-top: 150px;
     &__card{
@@ -6,9 +6,9 @@
         flex-direction: column;
         align-items: center;
         &-title{
-            font-size: 28px;
             filter: brightness(150%);
-text-shadow: 0 0 7px #444344, 0 0 10px #444344, 0 0 21px #444344, 0 0 42px #444344, 0 0 82px #444344, 0 0 92px #444344, 0 0 102px #444344, 0 0 151px #444344;
+text-shadow: 0 0 7px #dee053, 0 0 10px #dee053, 0 0 21px #dee053, 0 0 42px #dee053, 0 0 82px #dee053, 0 0 92px #dee053, 0 0 102px #dee053, 0 0 151px #dee053;
+            font-size: 28px;
         }
         &-text{
             font-size: 24px;
