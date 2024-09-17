@@ -184,4 +184,22 @@
 .delete__text {
   font-size: 24px;
   text-align: center;
+}
+
+.repo {
+  width: 100%;
+  padding-top: 150px;
+}
+.repo__title {
+  text-align: center;
+  font-size: 28px;
+  filter: brightness(150%);
+  text-shadow: 0 0 7px #2862ff, 0 0 10px #2862ff, 0 0 21px #2862ff, 0 0 42px #2862ff, 0 0 82px #2862ff, 0 0 92px #2862ff, 0 0 102px #2862ff, 0 0 151px #2862ff;
+}
+.repo__text {
+  font-size: 24px;
+  text-align: center;
+}
+.repo__description {
+  font-size: 24px;
 }/*# sourceMappingURL=main-style.min.css.map */
