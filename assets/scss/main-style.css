@@ -59,17 +59,4 @@
   .container {
     background-color: red;
   }
-}
-
-.header {
-  width: 100%;
-}
-.header__navbar {
-  list-style: none;
-  display: flex;
-  text-decoration: none;
-  justify-content: space-between;
-}
-.header__navbar-link {
-  font-size: 18px;
-}/*# sourceMappingURL=main-style.min.css.map */
+}/*# sourceMappingURL=main-style.css.map */
