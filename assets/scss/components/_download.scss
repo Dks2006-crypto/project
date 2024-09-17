@@ -1,0 +1,20 @@
+.download{
+    padding-top: 80px;
+    width: 100%;
+    &__title{
+        font-size: 35px;
+        font-weight: 600;
+        text-align: center;
+
+    color: #dad3d2;
+  filter: brightness(150%);
+  text-shadow: 0 0 7px #6e05e6, 0 0 10px #6e05e6, 0 0 21px #6e05e6, 0 0 42px #6e05e6, 0 0 82px #6e05e6, 0 0 92px #6e05e6, 0 0 102px #6e05e6, 0 0 151px #6e05e6;
+
+    }
+    &__text{
+        text-align: center;
+        font-size: 24px;
+        font-weight: 400;
+        line-height: 1.5;
+    }
+}

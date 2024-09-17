@@ -123,6 +123,9 @@
   filter: brightness(150%);
   text-shadow: 0 0 7px #1eff00, 0 0 10px #1eff00, 0 0 21px #1eff00, 0 0 42px #1eff00, 0 0 82px #1eff00, 0 0 92px #1eff00, 0 0 102px #1eff00, 0 0 151px #1eff00;
 }
+.registr__text {
+  font-size: 24px;
+}
 .registr__wrapper {
   display: flex;
   flex-direction: column;
@@ -140,12 +143,45 @@
 }
 .loading__title {
   font-size: 28px;
+  text-align: center;
   filter: brightness(150%);
   text-shadow: 0 0 7px #ff89ff, 0 0 10px #ff89ff, 0 0 21px #ff89ff, 0 0 42px #ff89ff, 0 0 82px #ff89ff, 0 0 92px #ff89ff, 0 0 102px #ff89ff, 0 0 151px #444344;
 }
-.loading__title {
-  text-align: center;
-}
 .loading__text {
+  text-align: center;
+  font-size: 24px;
+}
+
+.download {
+  padding-top: 80px;
+  width: 100%;
+}
+.download__title {
+  font-size: 35px;
+  font-weight: 600;
+  text-align: center;
+  color: #dad3d2;
+  filter: brightness(150%);
+  text-shadow: 0 0 7px #6e05e6, 0 0 10px #6e05e6, 0 0 21px #6e05e6, 0 0 42px #6e05e6, 0 0 82px #6e05e6, 0 0 92px #6e05e6, 0 0 102px #6e05e6, 0 0 151px #6e05e6;
+}
+.download__text {
+  text-align: center;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+.delete {
+  width: 100%;
+  padding-top: 150px;
+}
+.delete__title {
+  text-align: center;
+  font-size: 28px;
+  filter: brightness(150%);
+  text-shadow: 0 0 7px #3bfff5, 0 0 10px #3bfff5, 0 0 21px #3bfff5, 0 0 42px #3bfff5, 0 0 82px #3bfff5, 0 0 92px #3bfff5, 0 0 102px #3bfff5, 0 0 151px #3bfff5;
+}
+.delete__text {
+  font-size: 24px;
   text-align: center;
 }/*# sourceMappingURL=main-style.min.css.map */
