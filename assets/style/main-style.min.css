@@ -72,4 +72,21 @@
 }
 .header__navbar-link {
   font-size: 18px;
+}
+
+.git {
+  width: 100%;
+  padding-top: 150px;
+}
+.git__card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.git__card-title {
+  font-size: 28px;
+}
+.git__card-text {
+  font-size: 24px;
+  max-width: 950px;
 }/*# sourceMappingURL=main-style.min.css.map */
